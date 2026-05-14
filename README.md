@@ -1,4 +1,4 @@
-# 👨‍💻 Ghulam Mujtaba Full Stack Developer
+# 👨‍💻 Ghulam Mujtaba - Full Stack Developer
 
 🚀 Building scalable, secure, and high-performance web applications  
 💡 Turning complex problems into clean, production-ready solutions  
