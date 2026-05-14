@@ -76,9 +76,9 @@
 
 ## 📊 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=sabirsheik&theme=dark&hide_border=true)
-![](https://streak-stats.demolab.com/?user=sabirsheik&theme=dark&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sabirsheik&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=mujtaba510&theme=dark&hide_border=true)
+![](https://streak-stats.demolab.com/?user=mujtaba510&theme=dark&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mujtaba510&theme=dark&hide_border=true&layout=compact)
 
 ---
 
